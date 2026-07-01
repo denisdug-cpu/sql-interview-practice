@@ -1,4 +1,5 @@
 # Exercício 001 - Abigail Breslin
+Dificuldade - Facil
 
 ## Pergunta
 
@@ -39,3 +40,11 @@ Função utilizada:
 - FROM
 - WHERE
 - COUNT(*)
+
+## Observações
+
+Neste exercício aprendi que:
+
+- COUNT(*) é utilizado para contar registros.
+- Quando existe apenas uma tabela, normalmente não é necessário utilizar JOIN ou IN.
+- O filtro foi aplicado na coluna nominee.
