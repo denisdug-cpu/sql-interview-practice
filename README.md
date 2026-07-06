@@ -1,4 +1,4 @@
-# sql-interview-practice
+# SQL-interview-Practice
 Este repositório documenta minha jornada de aprendizado em SQL, com foco em entrevistas técnicas, desenvolvimento do raciocínio lógico e resolução de problemas.
 
 Cada exercício é resolvido seguindo um método estruturado antes da escrita da consulta SQL.
